@@ -1,5 +1,6 @@
-###Steps to create this boilerplate as like below
-common js modular pattern (used by Node js internal)
+Steps to create this boilerplate as like below:
+
+You can use common js modular pattern (used by Node js internal) and ES6 modular pattern as well.
 
 Some workflow tools - webpack, gulp, grunt etc.
 
